@@ -1,0 +1,1 @@
+pytesseract>=0.3.10   # optional: OCR for scanned PDFs (also needs the Tesseract program installed)
